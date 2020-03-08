@@ -1,0 +1,29 @@
+.button-style{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.container{
+    margin-bottom: 100px;
+}
+p{
+    color: gray;
+}
+.see-all h6{
+     
+    color : orange;
+}
+.card-style{
+    margin-top: 50px;
+}
+
+.card{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px lightgray;
+    margin-top: 30px;
+    margin-left: 10px;
+}
